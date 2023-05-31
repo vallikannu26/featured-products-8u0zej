@@ -1,0 +1,8 @@
+{
+  "name": "Featured Products",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "44c38f28"
+}
